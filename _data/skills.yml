@@ -1,0 +1,27 @@
+languages:
+  - item: Java
+  - item: JavaScript (ES6)
+  - item: HTML
+  - item: CSS/Sass
+  - item: Python
+  - item: SQL
+
+frameworks:
+  - item: Android
+  - item: React
+  - item: Jekyll
+  - item: Node
+  - item: D3
+
+tools:
+  - item: Bash
+  - item: Git & Github
+  - item: Gulp & Grunt
+  - item: Postman
+  - item: Postgres
+  - item: Android Studio
+
+design:
+  - item: Prototyping
+  - item: Wireframing
+  - item: User Testing

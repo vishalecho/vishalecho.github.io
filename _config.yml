@@ -1,0 +1,45 @@
+# Site settings
+name: Vishal Kumar
+title: Vishal Kumar | Android Software Engineer
+description: Design-minded android software engineer focused on building beautiful interfaces and experiences
+url: https://vishalecho.github.io/
+baseurl: ""
+email: vishal.iert.cs@gmail.com
+cover: https://vishalecho.github.io/img/og.png
+logo: https://vishalecho.github.io/img/emojis/technologist.png
+resume: https://vishalecho.github.io/resume.pdf
+social:
+  - title: email
+    url: mailto:vishal.iert.cs@gmail.com
+  - title: twitter
+    url: https://twitter.com/vishalechoo
+  - title: instagram
+    url: https://instagram.com/vishalecho
+  - title: codepen
+    url: http://codepen.io/vishalecho
+  - title: github
+    url: https://github.com/vishalecho
+  - title: linkedin
+    url: https://www.linkedin.com/in/vishalecho
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "*.gemspec"
+  - "README.md"
+  - "node_modules"
+  - "build"
+  - "gulpfile.js"
+  - "package.json"
+
+keep_files:
+  - "CNAME"
+  - ".git"
+  - ".gitignore"
+
+plugins_dir:
+  - jekyll-minifier
+  - jekyll-sitemap
