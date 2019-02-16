@@ -1,6 +1,6 @@
 languages:
   - item: Java
-  - item: JavaScript (ES6)
+  - item: JavaScript
   - item: HTML
   - item: CSS/Sass
   - item: Python
@@ -11,12 +11,9 @@ frameworks:
   - item: React
   - item: Jekyll
   - item: Node
-  - item: D3
 
 tools:
-  - item: Bash
   - item: Git & Github
-  - item: Gulp & Grunt
   - item: Postman
   - item: Postgres
   - item: Android Studio
