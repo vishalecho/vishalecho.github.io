@@ -7,7 +7,7 @@ languages:
   - item: Python
   - item: SQL
 
-Android Journey:
+androids:
   - item: MVC, MVP, MVVM
   - item: Module, AAR, JAR, SDK, Clean Code Architecture
   - item: Android jetpack (Room, ViewModel, Lifecycle, LiveData, Navigation Component and others)
